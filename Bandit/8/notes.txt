@@ -1,0 +1,2 @@
+Notes:
+1. grep -e 'expression' (find according to expression) filename (in file)

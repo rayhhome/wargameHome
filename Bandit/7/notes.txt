@@ -1,0 +1,3 @@
+Notes:
+1. cd .. to go to the entire server
+2. find -group (find by group) groupname -user (find by user) username
