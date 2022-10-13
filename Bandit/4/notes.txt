@@ -1,0 +1,3 @@
+Notes:
+1. ls -la to show all files
+2. can open hidden files using standard procedure

@@ -1,0 +1,2 @@
+Notes:
+1. special characters for filename -- access with ./ (full path)

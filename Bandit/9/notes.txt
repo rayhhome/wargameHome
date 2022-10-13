@@ -1,0 +1,3 @@
+Notes:
+1. sort filename (sort lines in file) | uniq -u (flag for finding [adjacent] unique lines, -d for finding duplicates)
+

@@ -1,0 +1,2 @@
+Notes:
+1. find . (all files) -size (according to size) 1033c (c - bytes, w - words, k - kilobytes, M - Megabytes, G - Gigabytes)
